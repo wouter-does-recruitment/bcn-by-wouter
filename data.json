@@ -1,0 +1,3752 @@
+[
+  {
+    "name": "Vitrina Café",
+    "address": "Carrer de Calàbria, 128, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3810522,
+    "lng": 2.1534454,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vitrina+Caf%C3%A9+Carrer+de+Cal%C3%A0bria%2C+128%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Vitrina+Caf%C3%A9+Carrer+de+Cal%C3%A0bria%2C+128%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Otsu",
+    "address": "Carrer de la Ciutat de Granada, 20, Loc 1, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.397068,
+    "lng": 2.1999832,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Otsu+Carrer+de+la+Ciutat+de+Granada%2C+20%2C+Loc+1%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Otsu+Carrer+de+la+Ciutat+de+Granada%2C+20%2C+Loc+1%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bar Super",
+    "address": "Plaça de Santa Caterina, 3, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3855922,
+    "lng": 2.1785064,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Super+Pla%C3%A7a+de+Santa+Caterina%2C+3%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bar+Super+Pla%C3%A7a+de+Santa+Caterina%2C+3%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "The Miners Coffee Sagrada",
+    "address": "Carrer de Lepant, 277, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.404852,
+    "lng": 2.1759006,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Miners+Coffee+Sagrada+Carrer+de+Lepant%2C+277%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=The+Miners+Coffee+Sagrada+Carrer+de+Lepant%2C+277%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Origo Bakery",
+    "address": "Pg. de St. Joan, 52, Eixample, 08009 Barcelona, Spain",
+    "lat": 41.3961885,
+    "lng": 2.1743049,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Bakery",
+      "Lunch",
+      "Pastries & Desserts"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Origo+Bakery+Pg.+de+St.+Joan%2C+52%2C+Eixample%2C+08009+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Origo+Bakery+Pg.+de+St.+Joan%2C+52%2C+Eixample%2C+08009+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Mocha",
+    "address": "Carrer de Lepant, 258, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.4035601,
+    "lng": 2.1781068,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mocha+Carrer+de+Lepant%2C+258%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Mocha+Carrer+de+Lepant%2C+258%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Restaurant Casa Mari i Rufo",
+    "address": "Carrer de Freixures, 11, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3858827,
+    "lng": 2.1782013,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+Casa+Mari+i+Rufo+Carrer+de+Freixures%2C+11%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Restaurant+Casa+Mari+i+Rufo+Carrer+de+Freixures%2C+11%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "ETL",
+    "address": "Carrer d'Ausiàs Marc, 151, Loc 2, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.3973328,
+    "lng": 2.1831186,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ETL+Carrer+d%27Ausi%C3%A0s+Marc%2C+151%2C+Loc+2%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=ETL+Carrer+d%27Ausi%C3%A0s+Marc%2C+151%2C+Loc+2%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Metl",
+    "address": "Carrer de Llull, 57, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.394183,
+    "lng": 2.1926989,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Metl+Carrer+de+Llull%2C+57%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Metl+Carrer+de+Llull%2C+57%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Taqueria",
+    "address": "Carrer de Sardenya, 304, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.4023301,
+    "lng": 2.1749353,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Taqueria+Carrer+de+Sardenya%2C+304%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Taqueria+Carrer+de+Sardenya%2C+304%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Can Carbonell",
+    "address": "Ctra. De la Muntanya, Carretera de la Muntanya, s/n, 08960 Sant Just Desvern, Barcelona, Spain",
+    "lat": 41.3997385,
+    "lng": 2.0858856,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Can+Carbonell+Ctra.+De+la+Muntanya%2C+Carretera+de+la+Muntanya%2C+s%2Fn%2C+08960+Sant+Just+Desvern%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Can+Carbonell+Ctra.+De+la+Muntanya%2C+Carretera+de+la+Muntanya%2C+s%2Fn%2C+08960+Sant+Just+Desvern%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Achaar Bar | Cantina Índia",
+    "address": "Carrer de Pere IV, 89, Sant Martí, 08018 Barcelona, Spain",
+    "lat": 41.398564,
+    "lng": 2.1940254,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Achaar+Bar+%7C+Cantina+%C3%8Dndia+Carrer+de+Pere+IV%2C+89%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Achaar+Bar+%7C+Cantina+%C3%8Dndia+Carrer+de+Pere+IV%2C+89%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Gravin",
+    "address": "Carrer de Rera Palau, 3, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3838611,
+    "lng": 2.1835945,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gravin+Carrer+de+Rera+Palau%2C+3%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Gravin+Carrer+de+Rera+Palau%2C+3%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Sartoria Panatieri | Pizzería Barcelona",
+    "address": "Carrer de Provença, 330, Eixample, 08037 Barcelona, Spain",
+    "lat": 41.3971746,
+    "lng": 2.1649178,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sartoria+Panatieri+%7C+Pizzer%C3%ADa+Barcelona+Carrer+de+Proven%C3%A7a%2C+330%2C+Eixample%2C+08037+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Sartoria+Panatieri+%7C+Pizzer%C3%ADa+Barcelona+Carrer+de+Proven%C3%A7a%2C+330%2C+Eixample%2C+08037+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Masia Solior",
+    "address": "Carretera de Gavà a, Carr. de Begues, Km. 4, 6, 08850, Barcelona, Spain",
+    "lat": 41.3143044,
+    "lng": 1.9619767,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Masia+Solior+Carretera+de+Gav%C3%A0+a%2C+Carr.+de+Begues%2C+Km.+4%2C+6%2C+08850%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Masia+Solior+Carretera+de+Gav%C3%A0+a%2C+Carr.+de+Begues%2C+Km.+4%2C+6%2C+08850%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Restaurant El Mirador",
+    "address": "Carrer Falciot, 15, 08224 Terrassa, Barcelona, Spain",
+    "lat": 41.5364224,
+    "lng": 1.9870364,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+El+Mirador+Carrer+Falciot%2C+15%2C+08224+Terrassa%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Restaurant+El+Mirador+Carrer+Falciot%2C+15%2C+08224+Terrassa%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "El Baretu",
+    "address": "C. de Ribes, 35, local 2, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.3955316,
+    "lng": 2.1818024,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Baretu+C.+de+Ribes%2C+35%2C+local+2%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=El+Baretu+C.+de+Ribes%2C+35%2C+local+2%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Akiro Hand Roll Bar",
+    "address": "Carrer de Mallorca, 237, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.392146,
+    "lng": 2.1599514,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akiro+Hand+Roll+Bar+Carrer+de+Mallorca%2C+237%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Akiro+Hand+Roll+Bar+Carrer+de+Mallorca%2C+237%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Botafumeiro",
+    "address": "Carrer Gran de Gràcia, 81, Gràcia, 08012 Barcelona, Spain",
+    "lat": 41.4004531,
+    "lng": 2.1546939,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Botafumeiro+Carrer+Gran+de+Gr%C3%A0cia%2C+81%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Botafumeiro+Carrer+Gran+de+Gr%C3%A0cia%2C+81%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Mas Del Silenci",
+    "address": "San Pere de Castanyadell, s/n, 08519, Barcelona, Spain",
+    "lat": 41.9255542,
+    "lng": 2.4287685,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mas+Del+Silenci+San+Pere+de+Castanyadell%2C+s%2Fn%2C+08519%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Mas+Del+Silenci+San+Pere+de+Castanyadell%2C+s%2Fn%2C+08519%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Ca l'Estevet",
+    "address": "Carrer de Valldonzella, 46, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.383282,
+    "lng": 2.164792,
+    "neighbourhood": "Sant Antoni",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ca+l%27Estevet+Carrer+de+Valldonzella%2C+46%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Ca+l%27Estevet+Carrer+de+Valldonzella%2C+46%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Higuera",
+    "address": "C. de Sicília, 101, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.3957775,
+    "lng": 2.1808929,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Higuera+C.+de+Sic%C3%ADlia%2C+101%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Higuera+C.+de+Sic%C3%ADlia%2C+101%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "BORO Bar",
+    "address": "Carrer de la Diputació, 286, Eixample, 08009 Barcelona, Spain",
+    "lat": 41.3925107,
+    "lng": 2.1700439,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BORO+Bar+Carrer+de+la+Diputaci%C3%B3%2C+286%2C+Eixample%2C+08009+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=BORO+Bar+Carrer+de+la+Diputaci%C3%B3%2C+286%2C+Eixample%2C+08009+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Petit Bangkok",
+    "address": "Carrer d'Àvila, 87, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.3976024,
+    "lng": 2.1941982,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petit+Bangkok+Carrer+d%27%C3%80vila%2C+87%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Petit+Bangkok+Carrer+d%27%C3%80vila%2C+87%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Onair",
+    "address": "Carrer de Pere IV, 99, Sant Martí, 08018 Barcelona, Spain",
+    "lat": 41.3989194,
+    "lng": 2.1944234,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Onair+Carrer+de+Pere+IV%2C+99%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Onair+Carrer+de+Pere+IV%2C+99%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Poblenou fresh coffee roaster",
+    "address": "Carrer de Pere IV, 101, Sant Martí, 08018 Barcelona, Spain",
+    "lat": 41.3990061,
+    "lng": 2.1944319,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Poblenou+fresh+coffee+roaster+Carrer+de+Pere+IV%2C+101%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Poblenou+fresh+coffee+roaster+Carrer+de+Pere+IV%2C+101%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Ambrosia Spa Barcelona. Centro de masajes y Wellness",
+    "address": "Passatge de Domingo, 9, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.392978,
+    "lng": 2.162135,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ambrosia+Spa+Barcelona.+Centro+de+masajes+y+Wellness+Passatge+de+Domingo%2C+9%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Ambrosia+Spa+Barcelona.+Centro+de+masajes+y+Wellness+Passatge+de+Domingo%2C+9%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La font del gat restaurant",
+    "address": "Passeig de Santa Madrona, 28, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "lat": 41.3678156,
+    "lng": 2.1576123,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+font+del+gat+restaurant+Passeig+de+Santa+Madrona%2C+28%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+font+del+gat+restaurant+Passeig+de+Santa+Madrona%2C+28%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Picanteria de l'Escribà",
+    "address": "Carrer de Marià Aguiló, 59, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.4020569,
+    "lng": 2.2020504,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Picanteria+de+l%27Escrib%C3%A0+Carrer+de+Mari%C3%A0+Aguil%C3%B3%2C+59%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Picanteria+de+l%27Escrib%C3%A0+Carrer+de+Mari%C3%A0+Aguil%C3%B3%2C+59%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "CACHO",
+    "address": "Carrer de Llull, 27, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.3930932,
+    "lng": 2.1910159,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CACHO+Carrer+de+Llull%2C+27%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=CACHO+Carrer+de+Llull%2C+27%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Oysters Menorca",
+    "address": "Carrer dels Madrazo, 54, Sarrià-Sant Gervasi, 08006 Barcelona, Spain",
+    "lat": 41.3991557,
+    "lng": 2.1474451,
+    "neighbourhood": "Sarrià-Sant Gervasi",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oysters+Menorca+Carrer+dels+Madrazo%2C+54%2C+Sarri%C3%A0-Sant+Gervasi%2C+08006+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Oysters+Menorca+Carrer+dels+Madrazo%2C+54%2C+Sarri%C3%A0-Sant+Gervasi%2C+08006+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Blackbird Coffee Corner - Sagrada Familia",
+    "address": "Carrer de València, 418, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.4017484,
+    "lng": 2.1757342,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blackbird+Coffee+Corner+-+Sagrada+Familia+Carrer+de+Val%C3%A8ncia%2C+418%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Blackbird+Coffee+Corner+-+Sagrada+Familia+Carrer+de+Val%C3%A8ncia%2C+418%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Brew Coffee",
+    "address": "Carrer de Roger de Flor, 102, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.3946224,
+    "lng": 2.1784703,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brew+Coffee+Carrer+de+Roger+de+Flor%2C+102%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Brew+Coffee+Carrer+de+Roger+de+Flor%2C+102%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "El Club de la Lluita Barcelona",
+    "address": "Carrer de Casp, 147, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.3979097,
+    "lng": 2.1819054,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Club+de+la+Lluita+Barcelona+Carrer+de+Casp%2C+147%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=El+Club+de+la+Lluita+Barcelona+Carrer+de+Casp%2C+147%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Three Marks Coffee",
+    "address": "Carrer d'Ausiàs Marc, 151, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.397245,
+    "lng": 2.183157,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Three+Marks+Coffee+Carrer+d%27Ausi%C3%A0s+Marc%2C+151%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Three+Marks+Coffee+Carrer+d%27Ausi%C3%A0s+Marc%2C+151%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "El Jardinet",
+    "address": "Carrer dels Corretgers, 8, 08500 Vic, Barcelona, Spain",
+    "lat": 41.9291612,
+    "lng": 2.2558485,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Jardinet+Carrer+dels+Corretgers%2C+8%2C+08500+Vic%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=El+Jardinet+Carrer+dels+Corretgers%2C+8%2C+08500+Vic%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "l’Horta Restaurant Tavertet",
+    "address": "Av. de Can Baró, 2, 08511 Tavertet, Barcelona, Spain",
+    "lat": 41.9960168,
+    "lng": 2.4188751,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=l%E2%80%99Horta+Restaurant+Tavertet+Av.+de+Can+Bar%C3%B3%2C+2%2C+08511+Tavertet%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=l%E2%80%99Horta+Restaurant+Tavertet+Av.+de+Can+Bar%C3%B3%2C+2%2C+08511+Tavertet%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Extra Bar",
+    "address": "Carrer del Torrent de l'Olla, 79, Gràcia, 08012 Barcelona, Spain",
+    "lat": 41.4013376,
+    "lng": 2.158106,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Extra+Bar+Carrer+del+Torrent+de+l%27Olla%2C+79%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Extra+Bar+Carrer+del+Torrent+de+l%27Olla%2C+79%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "MIKAN",
+    "address": "Carrer d'Aribau, 158, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3923145,
+    "lng": 2.1543398,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MIKAN+Carrer+d%27Aribau%2C+158%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=MIKAN+Carrer+d%27Aribau%2C+158%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Salts - Terrassa Bar Montjuïc",
+    "address": "Avinguda Miramar, 31, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "lat": 41.3691421,
+    "lng": 2.1655133,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salts+-+Terrassa+Bar+Montju%C3%AFc+Avinguda+Miramar%2C+31%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Salts+-+Terrassa+Bar+Montju%C3%AFc+Avinguda+Miramar%2C+31%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Suru Restaurant",
+    "address": "Carrer de Casanova, 134, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3885826,
+    "lng": 2.1549048,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suru+Restaurant+Carrer+de+Casanova%2C+134%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Suru+Restaurant+Carrer+de+Casanova%2C+134%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Carmela",
+    "address": "Carrer de Sant Pere Més Alt, 4, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3871079,
+    "lng": 2.1753364,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmela+Carrer+de+Sant+Pere+M%C3%A9s+Alt%2C+4%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Carmela+Carrer+de+Sant+Pere+M%C3%A9s+Alt%2C+4%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Los Tortíllez | Eixample",
+    "address": "Carrer del Consell de Cent, 299, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.3886942,
+    "lng": 2.1623242,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Tort%C3%ADllez+%7C+Eixample+Carrer+del+Consell+de+Cent%2C+299%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Los+Tort%C3%ADllez+%7C+Eixample+Carrer+del+Consell+de+Cent%2C+299%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Agreste de Fabio & Roser | Restaurante gastronómico Barcelona",
+    "address": "Carrer de Funoses-Llussà, 2, Gràcia, 08023 Barcelona, Spain",
+    "lat": 41.419953,
+    "lng": 2.1487465,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agreste+de+Fabio+%26+Roser+%7C+Restaurante+gastron%C3%B3mico+Barcelona+Carrer+de+Funoses-Lluss%C3%A0%2C+2%2C+Gr%C3%A0cia%2C+08023+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Agreste+de+Fabio+%26+Roser+%7C+Restaurante+gastron%C3%B3mico+Barcelona+Carrer+de+Funoses-Lluss%C3%A0%2C+2%2C+Gr%C3%A0cia%2C+08023+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bodega Borràs Restaurant | Barcelona",
+    "address": "Carrer de Casanova, 85, Eixample, 08011 Barcelona, Spain",
+    "lat": 41.3861178,
+    "lng": 2.157524,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Tapas",
+      "Wine"
+    ],
+    "category": "Wine",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodega+Borr%C3%A0s+Restaurant+%7C+Barcelona+Carrer+de+Casanova%2C+85%2C+Eixample%2C+08011+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bodega+Borr%C3%A0s+Restaurant+%7C+Barcelona+Carrer+de+Casanova%2C+85%2C+Eixample%2C+08011+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Vins Sexy Wine",
+    "address": "Carrer de Joaquín Costa, 8, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3814187,
+    "lng": 2.1670764,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Wine"
+    ],
+    "category": "Wine",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vins+Sexy+Wine+Carrer+de+Joaqu%C3%ADn+Costa%2C+8%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Vins+Sexy+Wine+Carrer+de+Joaqu%C3%ADn+Costa%2C+8%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Hummus and Company",
+    "address": "La Rambla, 67, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3809658,
+    "lng": 2.173106,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hummus+and+Company+La+Rambla%2C+67%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Hummus+and+Company+La+Rambla%2C+67%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "DeLaCrem | Enric Granados",
+    "address": "Carrer d'Enric Granados, 15, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.3879027,
+    "lng": 2.1619416,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DeLaCrem+%7C+Enric+Granados+Carrer+d%27Enric+Granados%2C+15%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=DeLaCrem+%7C+Enric+Granados+Carrer+d%27Enric+Granados%2C+15%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Cañete",
+    "address": "Carrer de la Unió, 17, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3791528,
+    "lng": 2.173125,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ca%C3%B1ete+Carrer+de+la+Uni%C3%B3%2C+17%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Ca%C3%B1ete+Carrer+de+la+Uni%C3%B3%2C+17%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bilbao Restaurante",
+    "address": "Carrer del Perill, 33, Gràcia, 08012 Barcelona, Spain",
+    "lat": 41.3997512,
+    "lng": 2.1618885,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Casual Eats",
+      "Dinner",
+      "Lunch"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bilbao+Restaurante+Carrer+del+Perill%2C+33%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bilbao+Restaurante+Carrer+del+Perill%2C+33%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Restaurant Petra",
+    "address": "Carrer dels Sombrerers, 13, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3839,
+    "lng": 2.1817833,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+Petra+Carrer+dels+Sombrerers%2C+13%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Restaurant+Petra+Carrer+dels+Sombrerers%2C+13%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "El 58",
+    "address": "Rambla del Poblenou, 58, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.4004478,
+    "lng": 2.2023249,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+58+Rambla+del+Poblenou%2C+58%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=El+58+Rambla+del+Poblenou%2C+58%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Gandhi indian restaurant",
+    "address": "Carrer de Balmes, 21, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.3877445,
+    "lng": 2.1645169,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gandhi+indian+restaurant+Carrer+de+Balmes%2C+21%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Gandhi+indian+restaurant+Carrer+de+Balmes%2C+21%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Hotel Brummell",
+    "address": "Carrer Nou de la Rambla, 174, Sants-Montjuïc, 08004 Barcelona, Spain",
+    "lat": 41.3716911,
+    "lng": 2.166437,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel+Brummell+Carrer+Nou+de+la+Rambla%2C+174%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Hotel+Brummell+Carrer+Nou+de+la+Rambla%2C+174%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Plata",
+    "address": "Carrer de la Mercè, 28, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.38041,
+    "lng": 2.1805931,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Plata+Carrer+de+la+Merc%C3%A8%2C+28%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Plata+Carrer+de+la+Merc%C3%A8%2C+28%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Carnal Steak House",
+    "address": "Carrer d'Enric Granados, 52, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.3914216,
+    "lng": 2.1578982,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carnal+Steak+House+Carrer+d%27Enric+Granados%2C+52%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Carnal+Steak+House+Carrer+d%27Enric+Granados%2C+52%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "fismuler barcelona",
+    "address": "Carrer del Rec Comtal, 17, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3900504,
+    "lng": 2.1798497,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=fismuler+barcelona+Carrer+del+Rec+Comtal%2C+17%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=fismuler+barcelona+Carrer+del+Rec+Comtal%2C+17%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bar Jai-Ca",
+    "address": "Carrer de Ginebra, 13, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3816584,
+    "lng": 2.1881988,
+    "neighbourhood": "Barceloneta",
+    "tags": [
+      "Beach",
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Jai-Ca+Carrer+de+Ginebra%2C+13%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bar+Jai-Ca+Carrer+de+Ginebra%2C+13%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Els 4 Gats",
+    "address": "Carrer de Montsió, 3, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.3857621,
+    "lng": 2.1736964,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Els+4+Gats+Carrer+de+Montsi%C3%B3%2C+3%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Els+4+Gats+Carrer+de+Montsi%C3%B3%2C+3%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Lasarte",
+    "address": "Carrer de Mallorca, 259, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.3936111,
+    "lng": 2.1619444,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lasarte+Carrer+de+Mallorca%2C+259%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Lasarte+Carrer+de+Mallorca%2C+259%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "El Xampanyet",
+    "address": "Carrer de Montcada, 22, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3845391,
+    "lng": 2.181679,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Xampanyet+Carrer+de+Montcada%2C+22%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=El+Xampanyet+Carrer+de+Montcada%2C+22%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "SlowMov",
+    "address": "Carrer de Neptú, 36, Gràcia, 08006 Barcelona, Spain",
+    "lat": 41.3984722,
+    "lng": 2.1539725,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SlowMov+Carrer+de+Nept%C3%BA%2C+36%2C+Gr%C3%A0cia%2C+08006+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=SlowMov+Carrer+de+Nept%C3%BA%2C+36%2C+Gr%C3%A0cia%2C+08006+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Roast Club Café",
+    "address": "Carrer de València, 190, Loc 1-2, Eixample, 08011 Barcelona, Spain",
+    "lat": 41.3879363,
+    "lng": 2.1572358,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roast+Club+Caf%C3%A9+Carrer+de+Val%C3%A8ncia%2C+190%2C+Loc+1-2%2C+Eixample%2C+08011+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Roast+Club+Caf%C3%A9+Carrer+de+Val%C3%A8ncia%2C+190%2C+Loc+1-2%2C+Eixample%2C+08011+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Terrassa Martínez",
+    "address": "Ctra. de Miramar, 38, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "lat": 41.3696075,
+    "lng": 2.1725414,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Terrassa+Mart%C3%ADnez+Ctra.+de+Miramar%2C+38%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Terrassa+Mart%C3%ADnez+Ctra.+de+Miramar%2C+38%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Patagònia Beef & Wine",
+    "address": "Gran Via de les Corts Catalanes, 660, Eixample, 08010 Barcelona, Spain",
+    "lat": 41.3910341,
+    "lng": 2.1710211,
+    "neighbourhood": "Sants / Les Corts",
+    "tags": [
+      "Wine"
+    ],
+    "category": "Wine",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patag%C3%B2nia+Beef+%26+Wine+Gran+Via+de+les+Corts+Catalanes%2C+660%2C+Eixample%2C+08010+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Patag%C3%B2nia+Beef+%26+Wine+Gran+Via+de+les+Corts+Catalanes%2C+660%2C+Eixample%2C+08010+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bar del Pla",
+    "address": "Carrer de Montcada, 2, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.385603,
+    "lng": 2.1800144,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+del+Pla+Carrer+de+Montcada%2C+2%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bar+del+Pla+Carrer+de+Montcada%2C+2%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Mitja Vida",
+    "address": "Carrer de Brusi, 39, Sarrià-Sant Gervasi, 08006 Barcelona, Spain",
+    "lat": 41.4009576,
+    "lng": 2.1454027,
+    "neighbourhood": "Sarrià-Sant Gervasi",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitja+Vida+Carrer+de+Brusi%2C+39%2C+Sarri%C3%A0-Sant+Gervasi%2C+08006+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Mitja+Vida+Carrer+de+Brusi%2C+39%2C+Sarri%C3%A0-Sant+Gervasi%2C+08006+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bodega La Tinaja",
+    "address": "Carrer de l'Esparteria, 9, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3843375,
+    "lng": 2.1831177,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Tapas",
+      "Wine"
+    ],
+    "category": "Wine",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodega+La+Tinaja+Carrer+de+l%27Esparteria%2C+9%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bodega+La+Tinaja+Carrer+de+l%27Esparteria%2C+9%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "sato i tanaka",
+    "address": "Carrer del Bruc, 79, Eixample, 08009 Barcelona, Spain",
+    "lat": 41.3945458,
+    "lng": 2.168949,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=sato+i+tanaka+Carrer+del+Bruc%2C+79%2C+Eixample%2C+08009+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=sato+i+tanaka+Carrer+del+Bruc%2C+79%2C+Eixample%2C+08009+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bar Restaurant Pinotxo",
+    "address": "Carrer del Compte d'Urgell 1 Mercat de Sant Antoni 18-19-20-21, 08011 Barcelona, Spain",
+    "lat": 41.3791407,
+    "lng": 2.1620066,
+    "neighbourhood": "Sant Antoni",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Restaurant+Pinotxo+Carrer+del+Compte+d%27Urgell+1+Mercat+de+Sant+Antoni+18-19-20-21%2C+08011+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bar+Restaurant+Pinotxo+Carrer+del+Compte+d%27Urgell+1+Mercat+de+Sant+Antoni+18-19-20-21%2C+08011+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Pincho J",
+    "address": "Carrer de Blai, 26, Sants-Montjuïc, 08004 Barcelona, Spain",
+    "lat": 41.3737144,
+    "lng": 2.1646149,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pincho+J+Carrer+de+Blai%2C+26%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Pincho+J+Carrer+de+Blai%2C+26%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bar Alegria",
+    "address": "Carrer del Comte Borrell, 133, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3809774,
+    "lng": 2.1575857,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Alegria+Carrer+del+Comte+Borrell%2C+133%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bar+Alegria+Carrer+del+Comte+Borrell%2C+133%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Nitsa Barcelona",
+    "address": "Carrer Nou de la Rambla, 113, Sants-Montjuïc, 08004 Barcelona, Spain",
+    "lat": 41.3743117,
+    "lng": 2.1695413,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nitsa+Barcelona+Carrer+Nou+de+la+Rambla%2C+113%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Nitsa+Barcelona+Carrer+Nou+de+la+Rambla%2C+113%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Avet Blau Hostal Restaurant",
+    "address": "Km 21 ctra. BV-5114 Santa Fe del, Montseny, 08470, Barcelona, Spain",
+    "lat": 41.7740084,
+    "lng": 2.4619031,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avet+Blau+Hostal+Restaurant+Km+21+ctra.+BV-5114+Santa+Fe+del%2C+Montseny%2C+08470%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Avet+Blau+Hostal+Restaurant+Km+21+ctra.+BV-5114+Santa+Fe+del%2C+Montseny%2C+08470%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Cova Fumada",
+    "address": "Carrer del Baluard, 56, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3793025,
+    "lng": 2.1892183,
+    "neighbourhood": "Barceloneta",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Cova+Fumada+Carrer+del+Baluard%2C+56%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Cova+Fumada+Carrer+del+Baluard%2C+56%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Jacaranda del Passatge",
+    "address": "Passatge de Lluís Pellicer, 6, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3928878,
+    "lng": 2.1493937,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Jacaranda+del+Passatge+Passatge+de+Llu%C3%ADs+Pellicer%2C+6%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Jacaranda+del+Passatge+Passatge+de+Llu%C3%ADs+Pellicer%2C+6%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Restaurant Casa Delfín",
+    "address": "Pg. del Born, 36, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3852519,
+    "lng": 2.1833797,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+Casa+Delf%C3%ADn+Pg.+del+Born%2C+36%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Restaurant+Casa+Delf%C3%ADn+Pg.+del+Born%2C+36%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Palosanto Tapas Bar | Raval",
+    "address": "Rambla del Raval, 26, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3779118,
+    "lng": 2.1698084,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palosanto+Tapas+Bar+%7C+Raval+Rambla+del+Raval%2C+26%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Palosanto+Tapas+Bar+%7C+Raval+Rambla+del+Raval%2C+26%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "El Jardí",
+    "address": "Carrer de l'Hospital, 56, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3808148,
+    "lng": 2.1702804,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Jard%C3%AD+Carrer+de+l%27Hospital%2C+56%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=El+Jard%C3%AD+Carrer+de+l%27Hospital%2C+56%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Marea Alta",
+    "address": "Edificio Colón, Av. de les Drassanes, 6, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3764714,
+    "lng": 2.1751693,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marea+Alta+Edificio+Col%C3%B3n%2C+Av.+de+les+Drassanes%2C+6%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Marea+Alta+Edificio+Col%C3%B3n%2C+Av.+de+les+Drassanes%2C+6%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Jardins de Càndida Pérez",
+    "address": "Rda. de Sant Pau, 67X, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3777264,
+    "lng": 2.1632137,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jardins+de+C%C3%A0ndida+P%C3%A9rez+Rda.+de+Sant+Pau%2C+67X%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Jardins+de+C%C3%A0ndida+P%C3%A9rez+Rda.+de+Sant+Pau%2C+67X%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Cal Pep",
+    "address": "Plaça de les Olles, 8, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3839621,
+    "lng": 2.1834106,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cal+Pep+Pla%C3%A7a+de+les+Olles%2C+8%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Cal+Pep+Pla%C3%A7a+de+les+Olles%2C+8%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "A Tu Bola",
+    "address": "Carrer de l'Hospital, 78, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.380122,
+    "lng": 2.168958,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A+Tu+Bola+Carrer+de+l%27Hospital%2C+78%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=A+Tu+Bola+Carrer+de+l%27Hospital%2C+78%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Hidden Coffee Roasters - Roastery",
+    "address": "Vía Trajana, 50-56, Nave 5, Sant Martí, 08020 Barcelona, Spain",
+    "lat": 41.4286723,
+    "lng": 2.1998494,
+    "neighbourhood": "Other",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hidden+Coffee+Roasters+-+Roastery+V%C3%ADa+Trajana%2C+50-56%2C+Nave+5%2C+Sant+Mart%C3%AD%2C+08020+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Hidden+Coffee+Roasters+-+Roastery+V%C3%ADa+Trajana%2C+50-56%2C+Nave+5%2C+Sant+Mart%C3%AD%2C+08020+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bo de B",
+    "address": "Carrer Merce, Carrer de la Mercè, 35, bajos, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.3812242,
+    "lng": 2.1811287,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bo+de+B+Carrer+Merce%2C+Carrer+de+la+Merc%C3%A8%2C+35%2C+bajos%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bo+de+B+Carrer+Merce%2C+Carrer+de+la+Merc%C3%A8%2C+35%2C+bajos%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bar El Born",
+    "address": "Pg. del Born, 26, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3847181,
+    "lng": 2.1829467,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+El+Born+Pg.+del+Born%2C+26%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bar+El+Born+Pg.+del+Born%2C+26%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Gresca",
+    "address": "Carrer de Provença, 230, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3913159,
+    "lng": 2.1571328,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gresca+Carrer+de+Proven%C3%A7a%2C+230%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Gresca+Carrer+de+Proven%C3%A7a%2C+230%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Aguaribay",
+    "address": "Carrer de Galceran Marquet, 1, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.3992107,
+    "lng": 2.205081,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aguaribay+Carrer+de+Galceran+Marquet%2C+1%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Aguaribay+Carrer+de+Galceran+Marquet%2C+1%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Alice Secret Garden",
+    "address": "Carrer de Pau Claris, 90, Eixample, 08010 Barcelona, Spain",
+    "lat": 41.3902786,
+    "lng": 2.1708714,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice+Secret+Garden+Carrer+de+Pau+Claris%2C+90%2C+Eixample%2C+08010+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Alice+Secret+Garden+Carrer+de+Pau+Claris%2C+90%2C+Eixample%2C+08010+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Cafès El Magnífico",
+    "address": "Carrer de l'Argenteria, 64, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3834953,
+    "lng": 2.1810332,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A8s+El+Magn%C3%ADfico+Carrer+de+l%27Argenteria%2C+64%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Caf%C3%A8s+El+Magn%C3%ADfico+Carrer+de+l%27Argenteria%2C+64%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Quimet & Quimet",
+    "address": "Carrer del Poeta Cabanyes, 25, Sants-Montjuïc, 08004 Barcelona, Spain",
+    "lat": 41.3739472,
+    "lng": 2.1655579,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quimet+%26+Quimet+Carrer+del+Poeta+Cabanyes%2C+25%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Quimet+%26+Quimet+Carrer+del+Poeta+Cabanyes%2C+25%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Dos Palillos",
+    "address": "Carrer d'Elisabets, 9, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3833338,
+    "lng": 2.1686079,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dos+Palillos+Carrer+d%27Elisabets%2C+9%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Dos+Palillos+Carrer+d%27Elisabets%2C+9%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Pla B",
+    "address": "Carrer de Bellafila, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.382172,
+    "lng": 2.1784405,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pla+B+Carrer+de+Bellafila%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Pla+B+Carrer+de+Bellafila%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Tragaluz",
+    "address": "Passatge de la Concepció, 5, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.394726,
+    "lng": 2.160481,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tragaluz+Passatge+de+la+Concepci%C3%B3%2C+5%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Tragaluz+Passatge+de+la+Concepci%C3%B3%2C+5%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "En Aparté",
+    "address": "Carrer de Lluís el Piadós, 2, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.389891,
+    "lng": 2.179015,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=En+Apart%C3%A9+Carrer+de+Llu%C3%ADs+el+Piad%C3%B3s%2C+2%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=En+Apart%C3%A9+Carrer+de+Llu%C3%ADs+el+Piad%C3%B3s%2C+2%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Flax&Kale",
+    "address": "Carrer dels Tallers, 74b, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3851935,
+    "lng": 2.1655342,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flax%26Kale+Carrer+dels+Tallers%2C+74b%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Flax%26Kale+Carrer+dels+Tallers%2C+74b%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Rocambolesc",
+    "address": "teatro Liceu, al lado del gran, La Rambla, 51, 59, 08002 Barcelona, Spain",
+    "lat": 41.380242,
+    "lng": 2.1738161,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rocambolesc+teatro+Liceu%2C+al+lado+del+gran%2C+La+Rambla%2C+51%2C+59%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Rocambolesc+teatro+Liceu%2C+al+lado+del+gran%2C+La+Rambla%2C+51%2C+59%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Chen Ji",
+    "address": "Carrer d'Alí Bei, 65, Eixample, 08013 Barcelona, Spain",
+    "lat": 41.393644,
+    "lng": 2.1807162,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chen+Ji+Carrer+d%27Al%C3%AD+Bei%2C+65%2C+Eixample%2C+08013+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Chen+Ji+Carrer+d%27Al%C3%AD+Bei%2C+65%2C+Eixample%2C+08013+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Planeta Magic Barcelona",
+    "address": "Carrer de Viladomat, 124, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3809817,
+    "lng": 2.1558043,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planeta+Magic+Barcelona+Carrer+de+Viladomat%2C+124%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Planeta+Magic+Barcelona+Carrer+de+Viladomat%2C+124%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Chaka Khan - Gastro Bar Exotique",
+    "address": "Carrer de l'Hospital, 104, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3797561,
+    "lng": 2.1677899,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chaka+Khan+-+Gastro+Bar+Exotique+Carrer+de+l%27Hospital%2C+104%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Chaka+Khan+-+Gastro+Bar+Exotique+Carrer+de+l%27Hospital%2C+104%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Cafè de L'Acadèmia",
+    "address": "Carrer dels Lledó, 1, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.382953,
+    "lng": 2.178522,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A8+de+L%27Acad%C3%A8mia+Carrer+dels+Lled%C3%B3%2C+1%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Caf%C3%A8+de+L%27Acad%C3%A8mia+Carrer+dels+Lled%C3%B3%2C+1%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Disfrutar",
+    "address": "Carrer de Villarroel, 163, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3878056,
+    "lng": 2.1531881,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Disfrutar+Carrer+de+Villarroel%2C+163%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Disfrutar+Carrer+de+Villarroel%2C+163%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "The Green Spot",
+    "address": "Carrer de la Reina Cristina, 12, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3817959,
+    "lng": 2.1839473,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Healthy Food",
+      "Lunch"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Green+Spot+Carrer+de+la+Reina+Cristina%2C+12%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=The+Green+Spot+Carrer+de+la+Reina+Cristina%2C+12%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Pepita",
+    "address": "Carrer de Còrsega, 343, Gràcia, 08037 Barcelona, Spain",
+    "lat": 41.3979631,
+    "lng": 2.1610472,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Casual Eats",
+      "Dinner",
+      "Lunch"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Pepita+Carrer+de+C%C3%B2rsega%2C+343%2C+Gr%C3%A0cia%2C+08037+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Pepita+Carrer+de+C%C3%B2rsega%2C+343%2C+Gr%C3%A0cia%2C+08037+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Federal Cafè Sant Antoni",
+    "address": "Carrer del Parlament, 39, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3769204,
+    "lng": 2.1628355,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "category": "Breakfast",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Federal+Caf%C3%A8+Sant+Antoni+Carrer+del+Parlament%2C+39%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Federal+Caf%C3%A8+Sant+Antoni+Carrer+del+Parlament%2C+39%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Cerveceria Catalana",
+    "address": "Carrer de Mallorca, 236, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.3923251,
+    "lng": 2.1608515,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerveceria+Catalana+Carrer+de+Mallorca%2C+236%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Cerveceria+Catalana+Carrer+de+Mallorca%2C+236%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Auto Rosselló",
+    "address": "Carrer del Rosselló, 182, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.3924215,
+    "lng": 2.1565281,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auto+Rossell%C3%B3+Carrer+del+Rossell%C3%B3%2C+182%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Auto+Rossell%C3%B3+Carrer+del+Rossell%C3%B3%2C+182%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Enigma",
+    "address": "Carrer de Sepúlveda, 38, 40, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3767234,
+    "lng": 2.1540984,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enigma+Carrer+de+Sep%C3%BAlveda%2C+38%2C+40%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Enigma+Carrer+de+Sep%C3%BAlveda%2C+38%2C+40%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Asador d'Aranda",
+    "address": "Carrer de Londres, 94, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3935623,
+    "lng": 2.1510484,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asador+d%27Aranda+Carrer+de+Londres%2C+94%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Asador+d%27Aranda+Carrer+de+Londres%2C+94%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "RUBI Gin Bar",
+    "address": "Carrer dels Banys Vells, 6, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3845635,
+    "lng": 2.1804643,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RUBI+Gin+Bar+Carrer+dels+Banys+Vells%2C+6%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=RUBI+Gin+Bar+Carrer+dels+Banys+Vells%2C+6%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Café Fargo Specialty Coffee Sagrada Familia",
+    "address": "Carrer de la Marina, 288, Eixample, 08025 Barcelona, Spain",
+    "lat": 41.4050615,
+    "lng": 2.173978,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Fargo+Specialty+Coffee+Sagrada+Familia+Carrer+de+la+Marina%2C+288%2C+Eixample%2C+08025+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Caf%C3%A9+Fargo+Specialty+Coffee+Sagrada+Familia+Carrer+de+la+Marina%2C+288%2C+Eixample%2C+08025+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Baldomero",
+    "address": "Ptge. de Mercader, 16, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.3924102,
+    "lng": 2.1599116,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baldomero+Ptge.+de+Mercader%2C+16%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Baldomero+Ptge.+de+Mercader%2C+16%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Comestibles Hanamura はなむら",
+    "address": "Carrer de Pallars, 154, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.3991389,
+    "lng": 2.1952844,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Comestibles+Hanamura+%E3%81%AF%E3%81%AA%E3%82%80%E3%82%89+Carrer+de+Pallars%2C+154%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Comestibles+Hanamura+%E3%81%AF%E3%81%AA%E3%82%80%E3%82%89+Carrer+de+Pallars%2C+154%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Llar d'Infants Goi Goi",
+    "address": "Carrer del Consell de Cent, 405, Ppal. 1º, 2º, Eixample, 08009 Barcelona, Spain",
+    "lat": 41.3955146,
+    "lng": 2.1712511,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Llar+d%27Infants+Goi+Goi+Carrer+del+Consell+de+Cent%2C+405%2C+Ppal.+1%C2%BA%2C+2%C2%BA%2C+Eixample%2C+08009+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Llar+d%27Infants+Goi+Goi+Carrer+del+Consell+de+Cent%2C+405%2C+Ppal.+1%C2%BA%2C+2%C2%BA%2C+Eixample%2C+08009+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Sagardi Muntaner",
+    "address": "C/ de Muntaner, 72, Eixample, 08011 Barcelona, Spain",
+    "lat": 41.3872696,
+    "lng": 2.1588832,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sagardi+Muntaner+C%2F+de+Muntaner%2C+72%2C+Eixample%2C+08011+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Sagardi+Muntaner+C%2F+de+Muntaner%2C+72%2C+Eixample%2C+08011+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Las Delicias",
+    "address": "Carrer de Mühlberg, 1, Horta-Guinardó, 08024 Barcelona, Spain",
+    "lat": 41.4183003,
+    "lng": 2.1576021,
+    "neighbourhood": "Horta-Guinardó",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Las+Delicias+Carrer+de+M%C3%BChlberg%2C+1%2C+Horta-Guinard%C3%B3%2C+08024+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Las+Delicias+Carrer+de+M%C3%BChlberg%2C+1%2C+Horta-Guinard%C3%B3%2C+08024+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Xiroi",
+    "address": "Passeig Marítim de la Nova Icària, 38, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.3916389,
+    "lng": 2.203437,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xiroi+Passeig+Mar%C3%ADtim+de+la+Nova+Ic%C3%A0ria%2C+38%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Xiroi+Passeig+Mar%C3%ADtim+de+la+Nova+Ic%C3%A0ria%2C+38%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bus Terrassa",
+    "address": "Av. del Litoral, 488, Sant Martí, 08019 Barcelona, Spain",
+    "lat": 41.4093438,
+    "lng": 2.2222125,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bus+Terrassa+Av.+del+Litoral%2C+488%2C+Sant+Mart%C3%AD%2C+08019+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bus+Terrassa+Av.+del+Litoral%2C+488%2C+Sant+Mart%C3%AD%2C+08019+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Taktika Berri",
+    "address": "Carrer de València, 169, Eixample, 08011 Barcelona, Spain",
+    "lat": 41.3885231,
+    "lng": 2.1575611,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taktika+Berri+Carrer+de+Val%C3%A8ncia%2C+169%2C+Eixample%2C+08011+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Taktika+Berri+Carrer+de+Val%C3%A8ncia%2C+169%2C+Eixample%2C+08011+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Antic Teatre",
+    "address": "Carrer de Verdaguer i Callís, 12, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3871958,
+    "lng": 2.1759573,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antic+Teatre+Carrer+de+Verdaguer+i+Call%C3%ADs%2C+12%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Antic+Teatre+Carrer+de+Verdaguer+i+Call%C3%ADs%2C+12%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bistrot Levante",
+    "address": "Placeta de Manuel Ribé, 1, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.3826632,
+    "lng": 2.17552,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistrot+Levante+Placeta+de+Manuel+Rib%C3%A9%2C+1%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bistrot+Levante+Placeta+de+Manuel+Rib%C3%A9%2C+1%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Palo Cortao",
+    "address": "Carrer Nou de la Rambla, 174, Sants-Montjuïc, 08004 Barcelona, Spain",
+    "lat": 41.3716484,
+    "lng": 2.1664588,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palo+Cortao+Carrer+Nou+de+la+Rambla%2C+174%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Palo+Cortao+Carrer+Nou+de+la+Rambla%2C+174%2C+Sants-Montju%C3%AFc%2C+08004+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "OneCoWork Plaça Catalunya | Coworking Barcelona",
+    "address": "Carrer d'Estruc, 9, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.3868865,
+    "lng": 2.1725053,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OneCoWork+Pla%C3%A7a+Catalunya+%7C+Coworking+Barcelona+Carrer+d%27Estruc%2C+9%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=OneCoWork+Pla%C3%A7a+Catalunya+%7C+Coworking+Barcelona+Carrer+d%27Estruc%2C+9%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Moog",
+    "address": "Carrer de l'Arc del Teatre, 3, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.3779954,
+    "lng": 2.1750805,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moog+Carrer+de+l%27Arc+del+Teatre%2C+3%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Moog+Carrer+de+l%27Arc+del+Teatre%2C+3%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Les Filles",
+    "address": "Carrer de Minerva, 2, Gràcia, 08006 Barcelona, Spain",
+    "lat": 41.396173,
+    "lng": 2.1568832,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Les+Filles+Carrer+de+Minerva%2C+2%2C+Gr%C3%A0cia%2C+08006+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Les+Filles+Carrer+de+Minerva%2C+2%2C+Gr%C3%A0cia%2C+08006+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Tesla-Servei Tècnic Barcelona Metalurgia",
+    "address": "Carrer de la Metal·lúrgia, 38, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "lat": 41.3520315,
+    "lng": 2.1349849,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tesla-Servei+T%C3%A8cnic+Barcelona+Metalurgia+Carrer+de+la+Metal%C2%B7l%C3%BArgia%2C+38%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Tesla-Servei+T%C3%A8cnic+Barcelona+Metalurgia+Carrer+de+la+Metal%C2%B7l%C3%BArgia%2C+38%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Món Vínic - Bar de Vins i Formatges",
+    "address": "Carrer de la Diputació, 251, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.3890483,
+    "lng": 2.1650956,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Tapas",
+      "Wine"
+    ],
+    "category": "Wine",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=M%C3%B3n+V%C3%ADnic+-+Bar+de+Vins+i+Formatges+Carrer+de+la+Diputaci%C3%B3%2C+251%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=M%C3%B3n+V%C3%ADnic+-+Bar+de+Vins+i+Formatges+Carrer+de+la+Diputaci%C3%B3%2C+251%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Copasetic Barcelona",
+    "address": "Carrer de la Diputació, 55, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3802659,
+    "lng": 2.1532229,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Copasetic+Barcelona+Carrer+de+la+Diputaci%C3%B3%2C+55%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Copasetic+Barcelona+Carrer+de+la+Diputaci%C3%B3%2C+55%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Mauri",
+    "address": "Rambla de Catalunya, 102, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.393909,
+    "lng": 2.160175,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mauri+Rambla+de+Catalunya%2C+102%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Mauri+Rambla+de+Catalunya%2C+102%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bormuth Tapas & Vermut in Born | Barcelona",
+    "address": "Plaça Comercial, 1, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3858408,
+    "lng": 2.182497,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bormuth+Tapas+%26+Vermut+in+Born+%7C+Barcelona+Pla%C3%A7a+Comercial%2C+1%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bormuth+Tapas+%26+Vermut+in+Born+%7C+Barcelona+Pla%C3%A7a+Comercial%2C+1%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bendito Pecado Pastisseria",
+    "address": "Carrer del Comerç, 8, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3891052,
+    "lng": 2.1812374,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Bakery",
+      "Lunch",
+      "Pastries & Desserts"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bendito+Pecado+Pastisseria+Carrer+del+Comer%C3%A7%2C+8%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bendito+Pecado+Pastisseria+Carrer+del+Comer%C3%A7%2C+8%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Can Martí Restaurant",
+    "address": "Passatge de la Font del Mont, 4, Sarrià-Sant Gervasi, 08017 Barcelona, Spain",
+    "lat": 41.4141182,
+    "lng": 2.1129494,
+    "neighbourhood": "Sarrià-Sant Gervasi",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Can+Mart%C3%AD+Restaurant+Passatge+de+la+Font+del+Mont%2C+4%2C+Sarri%C3%A0-Sant+Gervasi%2C+08017+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Can+Mart%C3%AD+Restaurant+Passatge+de+la+Font+del+Mont%2C+4%2C+Sarri%C3%A0-Sant+Gervasi%2C+08017+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "El Casal Café Bar - Tapas, Vinos y Ostras",
+    "address": "Pl. de Víctor Balaguer, 5, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3829897,
+    "lng": 2.1811314,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Coffee",
+      "Tapas",
+      "Wine"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Casal+Caf%C3%A9+Bar+-+Tapas%2C+Vinos+y+Ostras+Pl.+de+V%C3%ADctor+Balaguer%2C+5%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=El+Casal+Caf%C3%A9+Bar+-+Tapas%2C+Vinos+y+Ostras+Pl.+de+V%C3%ADctor+Balaguer%2C+5%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Petit Bangkok.",
+    "address": "Carrer de Balmes, 106, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.3923508,
+    "lng": 2.1588269,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petit+Bangkok.+Carrer+de+Balmes%2C+106%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Petit+Bangkok.+Carrer+de+Balmes%2C+106%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Milk",
+    "address": "Carrer d'en Gignàs, 21, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.3813167,
+    "lng": 2.1800917,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "category": "Breakfast",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milk+Carrer+d%27en+Gign%C3%A0s%2C+21%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Milk+Carrer+d%27en+Gign%C3%A0s%2C+21%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Can Fisher Restaurante playa Bogatell",
+    "address": "Av. del Litoral, 64, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.394642,
+    "lng": 2.206243,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Can+Fisher+Restaurante+playa+Bogatell+Av.+del+Litoral%2C+64%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Can+Fisher+Restaurante+playa+Bogatell+Av.+del+Litoral%2C+64%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Suculent",
+    "address": "Rambla del Raval, 45, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3782328,
+    "lng": 2.1704737,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suculent+Rambla+del+Raval%2C+45%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Suculent+Rambla+del+Raval%2C+45%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Syra Coffee - Diputació",
+    "address": "Carrer de la Diputació, 163, Eixample, 08011 Barcelona, Spain",
+    "lat": 41.3843936,
+    "lng": 2.1588444,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Syra+Coffee+-+Diputaci%C3%B3+Carrer+de+la+Diputaci%C3%B3%2C+163%2C+Eixample%2C+08011+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Syra+Coffee+-+Diputaci%C3%B3+Carrer+de+la+Diputaci%C3%B3%2C+163%2C+Eixample%2C+08011+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Xiringuito Escribà",
+    "address": "Av. del Litoral, 62, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.3935386,
+    "lng": 2.2053562,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xiringuito+Escrib%C3%A0+Av.+del+Litoral%2C+62%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Xiringuito+Escrib%C3%A0+Av.+del+Litoral%2C+62%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Restaurant Can Culleretes",
+    "address": "Carrer d'en Quintana, 5, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.3812502,
+    "lng": 2.1744565,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+Can+Culleretes+Carrer+d%27en+Quintana%2C+5%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Restaurant+Can+Culleretes+Carrer+d%27en+Quintana%2C+5%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Casa Masala Restaurant",
+    "address": "C/ de Muntaner, 152, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3906281,
+    "lng": 2.1543151,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Masala+Restaurant+C%2F+de+Muntaner%2C+152%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Casa+Masala+Restaurant+C%2F+de+Muntaner%2C+152%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Base by Farré",
+    "address": "Base Nautica Municipal, Platja de la Mar Bella, Av. del Litoral, S/N, 08005 Barcelona, Spain",
+    "lat": 41.396728,
+    "lng": 2.210171,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Base+by+Farr%C3%A9+Base+Nautica+Municipal%2C+Platja+de+la+Mar+Bella%2C+Av.+del+Litoral%2C+S%2FN%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Base+by+Farr%C3%A9+Base+Nautica+Municipal%2C+Platja+de+la+Mar+Bella%2C+Av.+del+Litoral%2C+S%2FN%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Can Lluis",
+    "address": "Carrer de la Cera, 49, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3781442,
+    "lng": 2.165354,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Can+Lluis+Carrer+de+la+Cera%2C+49%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Can+Lluis+Carrer+de+la+Cera%2C+49%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "The Benedict Barcelona",
+    "address": "Carrer d'en Gignàs, 23, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.381433,
+    "lng": 2.180227,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Breakfast",
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Breakfast",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Benedict+Barcelona+Carrer+d%27en+Gign%C3%A0s%2C+23%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=The+Benedict+Barcelona+Carrer+d%27en+Gign%C3%A0s%2C+23%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Vivanda",
+    "address": "Carrer Major de Sarrià, 134, Sarrià-Sant Gervasi, 08017 Barcelona, Spain",
+    "lat": 41.4004947,
+    "lng": 2.1209728,
+    "neighbourhood": "Sarrià-Sant Gervasi",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vivanda+Carrer+Major+de+Sarri%C3%A0%2C+134%2C+Sarri%C3%A0-Sant+Gervasi%2C+08017+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Vivanda+Carrer+Major+de+Sarri%C3%A0%2C+134%2C+Sarri%C3%A0-Sant+Gervasi%2C+08017+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Macchina Pasta Bar (Balmes)",
+    "address": "Carrer de Balmes, 12, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.386431,
+    "lng": 2.1667464,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Macchina+Pasta+Bar+%28Balmes%29+Carrer+de+Balmes%2C+12%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Macchina+Pasta+Bar+%28Balmes%29+Carrer+de+Balmes%2C+12%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Compartir Barcelona",
+    "address": "Carrer de València, 225, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.3912453,
+    "lng": 2.1610452,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Compartir+Barcelona+Carrer+de+Val%C3%A8ncia%2C+225%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Compartir+Barcelona+Carrer+de+Val%C3%A8ncia%2C+225%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Parking Pizza Marimón",
+    "address": "Passatge de Marimon, 5, Bajo, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
+    "lat": 41.3942186,
+    "lng": 2.1484584,
+    "neighbourhood": "Sarrià-Sant Gervasi",
+    "tags": [
+      "Casual Eats",
+      "Dinner",
+      "Lunch"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parking+Pizza+Marim%C3%B3n+Passatge+de+Marimon%2C+5%2C+Bajo%2C+Sarri%C3%A0-Sant+Gervasi%2C+08021+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Parking+Pizza+Marim%C3%B3n+Passatge+de+Marimon%2C+5%2C+Bajo%2C+Sarri%C3%A0-Sant+Gervasi%2C+08021+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Ugot Bruncherie",
+    "address": "Carrer de Viladomat, 138, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.381329,
+    "lng": 2.1553249,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "category": "Breakfast",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ugot+Bruncherie+Carrer+de+Viladomat%2C+138%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Ugot+Bruncherie+Carrer+de+Viladomat%2C+138%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "BENZiNA",
+    "address": "Passatge de Pere Calders, 6, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3761861,
+    "lng": 2.1627583,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BENZiNA+Passatge+de+Pere+Calders%2C+6%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=BENZiNA+Passatge+de+Pere+Calders%2C+6%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Restaurant La Panxa del Bisbe",
+    "address": "Carrer del Torrent de les Flors, 158, Gràcia, 08024 Barcelona, Spain",
+    "lat": 41.4094879,
+    "lng": 2.157133,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant+La+Panxa+del+Bisbe+Carrer+del+Torrent+de+les+Flors%2C+158%2C+Gr%C3%A0cia%2C+08024+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Restaurant+La+Panxa+del+Bisbe+Carrer+del+Torrent+de+les+Flors%2C+158%2C+Gr%C3%A0cia%2C+08024+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Monk Barcelona",
+    "address": "Carrer dels Abaixadors, 10, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3831761,
+    "lng": 2.1812542,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Monk+Barcelona+Carrer+dels+Abaixadors%2C+10%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Monk+Barcelona+Carrer+dels+Abaixadors%2C+10%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Superilla Peatonal Sant Antoni",
+    "address": "Carrer del Parlament, 39, C, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3769371,
+    "lng": 2.1632002,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Superilla+Peatonal+Sant+Antoni+Carrer+del+Parlament%2C+39%2C+C%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Superilla+Peatonal+Sant+Antoni+Carrer+del+Parlament%2C+39%2C+C%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Iberplancha by Certified Collision Craft, S.L.",
+    "address": "Av. Sant Sebastià, 1, 08960 Sant Just Desvern, Barcelona, Spain",
+    "lat": 41.3768386,
+    "lng": 2.0712271,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Iberplancha+by+Certified+Collision+Craft%2C+S.L.+Av.+Sant+Sebasti%C3%A0%2C+1%2C+08960+Sant+Just+Desvern%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Iberplancha+by+Certified+Collision+Craft%2C+S.L.+Av.+Sant+Sebasti%C3%A0%2C+1%2C+08960+Sant+Just+Desvern%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Can Codina",
+    "address": "Carrer del Torrent de l'Olla, 20, Gràcia, 08012 Barcelona, Spain",
+    "lat": 41.398954,
+    "lng": 2.160862,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Can+Codina+Carrer+del+Torrent+de+l%27Olla%2C+20%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Can+Codina+Carrer+del+Torrent+de+l%27Olla%2C+20%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Casa Rafols antiga ferreteria",
+    "address": "Rda. de Sant Pere, 74, Eixample, 08010 Barcelona, Spain",
+    "lat": 41.3912202,
+    "lng": 2.1792351,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Rafols+antiga+ferreteria+Rda.+de+Sant+Pere%2C+74%2C+Eixample%2C+08010+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Casa+Rafols+antiga+ferreteria+Rda.+de+Sant+Pere%2C+74%2C+Eixample%2C+08010+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Rasoterra",
+    "address": "Carrer del Palau, 5, Ciutat Vella, 08002 Barcelona, Spain",
+    "lat": 41.3811968,
+    "lng": 2.1781331,
+    "neighbourhood": "Gòtic",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rasoterra+Carrer+del+Palau%2C+5%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Rasoterra+Carrer+del+Palau%2C+5%2C+Ciutat+Vella%2C+08002+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Mediamanga",
+    "address": "Carrer d'Aribau, 13, Eixample, 08011 Barcelona, Spain",
+    "lat": 41.3862343,
+    "lng": 2.1620049,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mediamanga+Carrer+d%27Aribau%2C+13%2C+Eixample%2C+08011+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Mediamanga+Carrer+d%27Aribau%2C+13%2C+Eixample%2C+08011+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "TANGANA | Restaurant Gràcia Barcelona",
+    "address": "Carrer de la Riera de Sant Miquel, 19, Gràcia, 08006 Barcelona, Spain",
+    "lat": 41.3975281,
+    "lng": 2.1569839,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TANGANA+%7C+Restaurant+Gr%C3%A0cia+Barcelona+Carrer+de+la+Riera+de+Sant+Miquel%2C+19%2C+Gr%C3%A0cia%2C+08006+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=TANGANA+%7C+Restaurant+Gr%C3%A0cia+Barcelona+Carrer+de+la+Riera+de+Sant+Miquel%2C+19%2C+Gr%C3%A0cia%2C+08006+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Huella Workout Club Aribau - CrossFit",
+    "address": "Carrer d'Aribau, 79, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3893342,
+    "lng": 2.1577429,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Huella+Workout+Club+Aribau+-+CrossFit+Carrer+d%27Aribau%2C+79%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Huella+Workout+Club+Aribau+-+CrossFit+Carrer+d%27Aribau%2C+79%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Funky Bakers",
+    "address": "Pg. del Born, 10, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3842465,
+    "lng": 2.1826519,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Bakery",
+      "Lunch",
+      "Pastries & Desserts"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Funky+Bakers+Pg.+del+Born%2C+10%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Funky+Bakers+Pg.+del+Born%2C+10%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Rabbit's Bar",
+    "address": "Carrer de Ganduxer, 16, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
+    "lat": 41.3927794,
+    "lng": 2.1389924,
+    "neighbourhood": "Sarrià-Sant Gervasi",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rabbit%27s+Bar+Carrer+de+Ganduxer%2C+16%2C+Sarri%C3%A0-Sant+Gervasi%2C+08021+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Rabbit%27s+Bar+Carrer+de+Ganduxer%2C+16%2C+Sarri%C3%A0-Sant+Gervasi%2C+08021+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Hidden Coffee Roasters - Les Corts",
+    "address": "C/ Constança, Carrer de Déu i Mata, esquina, 08029 Barcelona, Spain",
+    "lat": 41.3883431,
+    "lng": 2.1358581,
+    "neighbourhood": "Sants / Les Corts",
+    "tags": [
+      "Coffee"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hidden+Coffee+Roasters+-+Les+Corts+C%2F+Constan%C3%A7a%2C+Carrer+de+D%C3%A9u+i+Mata%2C+esquina%2C+08029+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Hidden+Coffee+Roasters+-+Les+Corts+C%2F+Constan%C3%A7a%2C+Carrer+de+D%C3%A9u+i+Mata%2C+esquina%2C+08029+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "O'Toxo 3 Brothers",
+    "address": "Carrer del Carme, 59, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3810505,
+    "lng": 2.1682168,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=O%27Toxo+3+Brothers+Carrer+del+Carme%2C+59%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=O%27Toxo+3+Brothers+Carrer+del+Carme%2C+59%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Índigo Café & Brunch",
+    "address": "Carrer d'Enric Granados, 3, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.3874259,
+    "lng": 2.1626534,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Breakfast",
+      "Coffee",
+      "Lunch"
+    ],
+    "category": "Coffee",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%8Dndigo+Caf%C3%A9+%26+Brunch+Carrer+d%27Enric+Granados%2C+3%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=%C3%8Dndigo+Caf%C3%A9+%26+Brunch+Carrer+d%27Enric+Granados%2C+3%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "OKEYMAS CEM Parc de la Ciutadella",
+    "address": "Passeig Circumval lacio, 1, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3856,
+    "lng": 2.1866,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OKEYMAS+CEM+Parc+de+la+Ciutadella+Passeig+Circumval+lacio%2C+1%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=OKEYMAS+CEM+Parc+de+la+Ciutadella+Passeig+Circumval+lacio%2C+1%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Casa Lolea Barcelona",
+    "address": "Carrer de Sant Pere Més Alt, 49, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3889,
+    "lng": 2.1771556,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Lolea+Barcelona+Carrer+de+Sant+Pere+M%C3%A9s+Alt%2C+49%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Casa+Lolea+Barcelona+Carrer+de+Sant+Pere+M%C3%A9s+Alt%2C+49%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "LeccaBaffi",
+    "address": "Carrer de València, 341, Eixample, 08009 Barcelona, Spain",
+    "lat": 41.3977872,
+    "lng": 2.1698222,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LeccaBaffi+Carrer+de+Val%C3%A8ncia%2C+341%2C+Eixample%2C+08009+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=LeccaBaffi+Carrer+de+Val%C3%A8ncia%2C+341%2C+Eixample%2C+08009+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Museum of Illusions",
+    "address": "Carrer del Pintor Fortuny, 17, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.38283,
+    "lng": 2.169795,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum+of+Illusions+Carrer+del+Pintor+Fortuny%2C+17%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Museum+of+Illusions+Carrer+del+Pintor+Fortuny%2C+17%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "San Pedrito, Restaurante Y Licoreria",
+    "address": "Carrer de la Fusina, 6, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.386613,
+    "lng": 2.1836629,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=San+Pedrito%2C+Restaurante+Y+Licoreria+Carrer+de+la+Fusina%2C+6%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=San+Pedrito%2C+Restaurante+Y+Licoreria+Carrer+de+la+Fusina%2C+6%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Tròpico Barcelona | Raval",
+    "address": "Carrer del Marquès de Barberà, 24, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3776467,
+    "lng": 2.171421,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tr%C3%B2pico+Barcelona+%7C+Raval+Carrer+del+Marqu%C3%A8s+de+Barber%C3%A0%2C+24%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Tr%C3%B2pico+Barcelona+%7C+Raval+Carrer+del+Marqu%C3%A8s+de+Barber%C3%A0%2C+24%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Boca Grande",
+    "address": "Passatge de la Concepció, 12, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.3945264,
+    "lng": 2.1598331,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Boca+Grande+Passatge+de+la+Concepci%C3%B3%2C+12%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Boca+Grande+Passatge+de+la+Concepci%C3%B3%2C+12%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "7 Portes",
+    "address": "Pg. d'Isabel II, 14, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3823052,
+    "lng": 2.1833902,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=7+Portes+Pg.+d%27Isabel+II%2C+14%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=7+Portes+Pg.+d%27Isabel+II%2C+14%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bar Mut",
+    "address": "Carrer de Pau Claris, 192, Eixample, 08037 Barcelona, Spain",
+    "lat": 41.3973351,
+    "lng": 2.1612629,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar+Mut+Carrer+de+Pau+Claris%2C+192%2C+Eixample%2C+08037+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bar+Mut+Carrer+de+Pau+Claris%2C+192%2C+Eixample%2C+08037+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Pubilla",
+    "address": "Plaça de la Llibertat, 23, Gràcia, 08012 Barcelona, Spain",
+    "lat": 41.3995399,
+    "lng": 2.1536577,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Pubilla+Pla%C3%A7a+de+la+Llibertat%2C+23%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Pubilla+Pla%C3%A7a+de+la+Llibertat%2C+23%2C+Gr%C3%A0cia%2C+08012+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Koku Kitchen | El Born",
+    "address": "Carrer del Comerç, 29, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3848807,
+    "lng": 2.1843362,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koku+Kitchen+%7C+El+Born+Carrer+del+Comer%C3%A7%2C+29%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Koku+Kitchen+%7C+El+Born+Carrer+del+Comer%C3%A7%2C+29%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Silan",
+    "address": "Carrer d'Enric Granados, 38, Eixample, 08008 Barcelona, Spain",
+    "lat": 41.3906647,
+    "lng": 2.158814,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Silan+Carrer+d%27Enric+Granados%2C+38%2C+Eixample%2C+08008+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Silan+Carrer+d%27Enric+Granados%2C+38%2C+Eixample%2C+08008+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Viet Kitchen (TOP RATED)",
+    "address": "Carrer d'Aribau, 137, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3920583,
+    "lng": 2.15432,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viet+Kitchen+%28TOP+RATED%29+Carrer+d%27Aribau%2C+137%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Viet+Kitchen+%28TOP+RATED%29+Carrer+d%27Aribau%2C+137%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Barraca",
+    "address": "Pg. Marítim de la Barceloneta, 1, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3790828,
+    "lng": 2.1919399,
+    "neighbourhood": "Barceloneta",
+    "tags": [
+      "Beach",
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barraca+Pg.+Mar%C3%ADtim+de+la+Barceloneta%2C+1%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Barraca+Pg.+Mar%C3%ADtim+de+la+Barceloneta%2C+1%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Templum",
+    "address": "Carrer d'Entença, 113, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.380837,
+    "lng": 2.148756,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Templum+Carrer+d%27Enten%C3%A7a%2C+113%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Templum+Carrer+d%27Enten%C3%A7a%2C+113%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Carabela Cafè",
+    "address": "Pas de Sota Muralla, 3, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3812624,
+    "lng": 2.182876,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carabela+Caf%C3%A8+Pas+de+Sota+Muralla%2C+3%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Carabela+Caf%C3%A8+Pas+de+Sota+Muralla%2C+3%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Sabio Infante",
+    "address": "Pl. del Dr. Letamendi, 30, Eixample, 08007 Barcelona, Spain",
+    "lat": 41.3892773,
+    "lng": 2.16147,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sabio+Infante+Pl.+del+Dr.+Letamendi%2C+30%2C+Eixample%2C+08007+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Sabio+Infante+Pl.+del+Dr.+Letamendi%2C+30%2C+Eixample%2C+08007+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Can Paixano",
+    "address": "Carrer de la Reina Cristina, 7, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3818137,
+    "lng": 2.1833746,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Can+Paixano+Carrer+de+la+Reina+Cristina%2C+7%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Can+Paixano+Carrer+de+la+Reina+Cristina%2C+7%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "INPUT - High Fidelity Dance Club",
+    "address": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "lat": 41.3687029,
+    "lng": 2.1489002,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=INPUT+-+High+Fidelity+Dance+Club+Av.+de+Francesc+Ferrer+i+Gu%C3%A0rdia%2C+13%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=INPUT+-+High+Fidelity+Dance+Club+Av.+de+Francesc+Ferrer+i+Gu%C3%A0rdia%2C+13%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Therapy in Barcelona | English Speaking Therapists Counselors Coaches",
+    "address": "Carrer de París, 162-164, 3o, 1a, Eixample, 08036 Barcelona, Spain",
+    "lat": 41.3921457,
+    "lng": 2.1516331,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Therapy+in+Barcelona+%7C+English+Speaking+Therapists+Counselors+Coaches+Carrer+de+Par%C3%ADs%2C+162-164%2C+3o%2C+1a%2C+Eixample%2C+08036+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Therapy+in+Barcelona+%7C+English+Speaking+Therapists+Counselors+Coaches+Carrer+de+Par%C3%ADs%2C+162-164%2C+3o%2C+1a%2C+Eixample%2C+08036+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Terraza Bcn Urban Club",
+    "address": "Carrer de Mallorca, 1, Sants-Montjuïc, 08014 Barcelona, Spain",
+    "lat": 41.3791625,
+    "lng": 2.1429229,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Terraza+Bcn+Urban+Club+Carrer+de+Mallorca%2C+1%2C+Sants-Montju%C3%AFc%2C+08014+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Terraza+Bcn+Urban+Club+Carrer+de+Mallorca%2C+1%2C+Sants-Montju%C3%AFc%2C+08014+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Razzmatazz",
+    "address": "Carrer dels Almogàvers, 122, Sant Martí, 08018 Barcelona, Spain",
+    "lat": 41.3977323,
+    "lng": 2.1911108,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Razzmatazz+Carrer+dels+Almog%C3%A0vers%2C+122%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Razzmatazz+Carrer+dels+Almog%C3%A0vers%2C+122%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Ben Tips",
+    "address": "Av. de la República Argentina, 104, Gràcia, 08023 Barcelona, Spain",
+    "lat": 41.4112167,
+    "lng": 2.1453246,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ben+Tips+Av.+de+la+Rep%C3%BAblica+Argentina%2C+104%2C+Gr%C3%A0cia%2C+08023+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Ben+Tips+Av.+de+la+Rep%C3%BAblica+Argentina%2C+104%2C+Gr%C3%A0cia%2C+08023+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Brunells",
+    "address": "Carrer de la Princesa, 22, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3854186,
+    "lng": 2.1806806,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brunells+Carrer+de+la+Princesa%2C+22%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Brunells+Carrer+de+la+Princesa%2C+22%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Cotton House Hotel, Autograph Collection",
+    "address": "Gran Via de les Corts Catalanes, 670, Eixample, 08010 Barcelona, Spain",
+    "lat": 41.3917358,
+    "lng": 2.1718019,
+    "neighbourhood": "Sants / Les Corts",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cotton+House+Hotel%2C+Autograph+Collection+Gran+Via+de+les+Corts+Catalanes%2C+670%2C+Eixample%2C+08010+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Cotton+House+Hotel%2C+Autograph+Collection+Gran+Via+de+les+Corts+Catalanes%2C+670%2C+Eixample%2C+08010+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Dos Pebrots",
+    "address": "Carrer del Doctor Dou, 19, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3828164,
+    "lng": 2.1684249,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dos+Pebrots+Carrer+del+Doctor+Dou%2C+19%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Dos+Pebrots+Carrer+del+Doctor+Dou%2C+19%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Teatro kitchen & bar",
+    "address": "Avinguda del Paral·lel, 164, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3753194,
+    "lng": 2.1568268,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro+kitchen+%26+bar+Avinguda+del+Paral%C2%B7lel%2C+164%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Teatro+kitchen+%26+bar+Avinguda+del+Paral%C2%B7lel%2C+164%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "L'Ovella Negra | Marina",
+    "address": "Carrer de Zamora, 78, Sant Martí, 08018 Barcelona, Spain",
+    "lat": 41.3958762,
+    "lng": 2.1902611,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Ovella+Negra+%7C+Marina+Carrer+de+Zamora%2C+78%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=L%27Ovella+Negra+%7C+Marina+Carrer+de+Zamora%2C+78%2C+Sant+Mart%C3%AD%2C+08018+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Miranda",
+    "address": "Av. del Coll del Portell, 74, Gràcia, 08024 Barcelona, Spain",
+    "lat": 41.4114506,
+    "lng": 2.15093,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Miranda+Av.+del+Coll+del+Portell%2C+74%2C+Gr%C3%A0cia%2C+08024+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Miranda+Av.+del+Coll+del+Portell%2C+74%2C+Gr%C3%A0cia%2C+08024+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "FOC BARCELONETA",
+    "address": "Pg. de Joan de Borbó, 66, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3760997,
+    "lng": 2.1891733,
+    "neighbourhood": "Barceloneta",
+    "tags": [
+      "Beach",
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FOC+BARCELONETA+Pg.+de+Joan+de+Borb%C3%B3%2C+66%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=FOC+BARCELONETA+Pg.+de+Joan+de+Borb%C3%B3%2C+66%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Teòric Taverna Gastronòmica",
+    "address": "Carrer de Bailèn, 117, Eixample, 08009 Barcelona, Spain",
+    "lat": 41.3978365,
+    "lng": 2.1692921,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Te%C3%B2ric+Taverna+Gastron%C3%B2mica+Carrer+de+Bail%C3%A8n%2C+117%2C+Eixample%2C+08009+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Te%C3%B2ric+Taverna+Gastron%C3%B2mica+Carrer+de+Bail%C3%A8n%2C+117%2C+Eixample%2C+08009+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Los Cachitos",
+    "address": "Rda. de Sant Pau, 4, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3754448,
+    "lng": 2.1677323,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Los+Cachitos+Rda.+de+Sant+Pau%2C+4%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Los+Cachitos+Rda.+de+Sant+Pau%2C+4%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Costa Pacifico",
+    "address": "Plaça de Sant Agustí Vell, 13, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3880524,
+    "lng": 2.1807051,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Costa+Pacifico+Pla%C3%A7a+de+Sant+Agust%C3%AD+Vell%2C+13%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Costa+Pacifico+Pla%C3%A7a+de+Sant+Agust%C3%AD+Vell%2C+13%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Demasie",
+    "address": "Carrer de la Princesa, 28, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3856145,
+    "lng": 2.1809419,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Demasie+Carrer+de+la+Princesa%2C+28%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Demasie+Carrer+de+la+Princesa%2C+28%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Gringa",
+    "address": "Carrer de la Lleialtat, 16, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3767823,
+    "lng": 2.1664532,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gringa+Carrer+de+la+Lleialtat%2C+16%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Gringa+Carrer+de+la+Lleialtat%2C+16%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "El Mirador de Can Cases",
+    "address": "Camí de Can Cases, 15, 08196 Barcelona, Spain",
+    "lat": 41.4344462,
+    "lng": 2.0984583,
+    "neighbourhood": "Other",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Mirador+de+Can+Cases+Cam%C3%AD+de+Can+Cases%2C+15%2C+08196+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=El+Mirador+de+Can+Cases+Cam%C3%AD+de+Can+Cases%2C+15%2C+08196+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "L' Atelier Barcelona Escuela y pastelería",
+    "address": "Carrer de Viladomat, 140 bis, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.381746,
+    "lng": 2.1547718,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Bakery",
+      "Lunch",
+      "Pastries & Desserts",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27+Atelier+Barcelona+Escuela+y+pasteler%C3%ADa+Carrer+de+Viladomat%2C+140+bis%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=L%27+Atelier+Barcelona+Escuela+y+pasteler%C3%ADa+Carrer+de+Viladomat%2C+140+bis%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Biblioteca Pública Arús",
+    "address": "Pg. de St. Joan, 26, Eixample, 08010 Barcelona, Spain",
+    "lat": 41.3930495,
+    "lng": 2.1787165,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Biblioteca+P%C3%BAblica+Ar%C3%BAs+Pg.+de+St.+Joan%2C+26%2C+Eixample%2C+08010+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Biblioteca+P%C3%BAblica+Ar%C3%BAs+Pg.+de+St.+Joan%2C+26%2C+Eixample%2C+08010+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Doppietta - Buffet Libre Italiano",
+    "address": "Passatge de Pere Calders, 4, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3761101,
+    "lng": 2.1628107,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Doppietta+-+Buffet+Libre+Italiano+Passatge+de+Pere+Calders%2C+4%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Doppietta+-+Buffet+Libre+Italiano+Passatge+de+Pere+Calders%2C+4%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Banh Mio",
+    "address": "Carrer de la Diputació, 225, Eixample, 08011 Barcelona, Spain",
+    "lat": 41.387159,
+    "lng": 2.162546,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Banh+Mio+Carrer+de+la+Diputaci%C3%B3%2C+225%2C+Eixample%2C+08011+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Banh+Mio+Carrer+de+la+Diputaci%C3%B3%2C+225%2C+Eixample%2C+08011+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Molino de Pez",
+    "address": "Hotel Seventy, Carrer de Còrsega, 346, Eixample, 08037 Barcelona, Spain",
+    "lat": 41.3978958,
+    "lng": 2.1612308,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Molino+de+Pez+Hotel+Seventy%2C+Carrer+de+C%C3%B2rsega%2C+346%2C+Eixample%2C+08037+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Molino+de+Pez+Hotel+Seventy%2C+Carrer+de+C%C3%B2rsega%2C+346%2C+Eixample%2C+08037+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Barrabes Skiing and Mountain",
+    "address": "Carrer de Roger de Llúria, 77, 79, Eixample, 08009 Barcelona, Spain",
+    "lat": 41.3945932,
+    "lng": 2.1667151,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrabes+Skiing+and+Mountain+Carrer+de+Roger+de+Ll%C3%BAria%2C+77%2C+79%2C+Eixample%2C+08009+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Barrabes+Skiing+and+Mountain+Carrer+de+Roger+de+Ll%C3%BAria%2C+77%2C+79%2C+Eixample%2C+08009+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "LUCKY SCHMUCK",
+    "address": "Carrer de Joaquín Costa, 36, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3825187,
+    "lng": 2.1659777,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LUCKY+SCHMUCK+Carrer+de+Joaqu%C3%ADn+Costa%2C+36%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=LUCKY+SCHMUCK+Carrer+de+Joaqu%C3%ADn+Costa%2C+36%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "LITTLE FERN",
+    "address": "Carrer de Pere IV, 168, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.4023437,
+    "lng": 2.1975263,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Breakfast",
+      "Lunch"
+    ],
+    "category": "Breakfast",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LITTLE+FERN+Carrer+de+Pere+IV%2C+168%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=LITTLE+FERN+Carrer+de+Pere+IV%2C+168%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Caseta del Migdia",
+    "address": "Mirador del Migdia, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "lat": 41.3596726,
+    "lng": 2.1607381,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Caseta+del+Migdia+Mirador+del+Migdia%2C+s%2Fn%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Caseta+del+Migdia+Mirador+del+Migdia%2C+s%2Fn%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Buriti - Poblenou",
+    "address": "Carrer de Bilbao, 18, Sant Martí, 08005 Barcelona, Spain",
+    "lat": 41.4021844,
+    "lng": 2.2051634,
+    "neighbourhood": "Poblenou",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buriti+-+Poblenou+Carrer+de+Bilbao%2C+18%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Buriti+-+Poblenou+Carrer+de+Bilbao%2C+18%2C+Sant+Mart%C3%AD%2C+08005+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Arenal Restaurant",
+    "address": "Pg. Marítim de la Barceloneta, s/n, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3821105,
+    "lng": 2.1943325,
+    "neighbourhood": "Barceloneta",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arenal+Restaurant+Pg.+Mar%C3%ADtim+de+la+Barceloneta%2C+s%2Fn%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Arenal+Restaurant+Pg.+Mar%C3%ADtim+de+la+Barceloneta%2C+s%2Fn%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "My Fucking Restaurant",
+    "address": "Carrer Nou de la Rambla, 35, Ciutat Vella, 08001 Barcelona, Spain",
+    "lat": 41.3777844,
+    "lng": 2.173146,
+    "neighbourhood": "Raval",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My+Fucking+Restaurant+Carrer+Nou+de+la+Rambla%2C+35%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=My+Fucking+Restaurant+Carrer+Nou+de+la+Rambla%2C+35%2C+Ciutat+Vella%2C+08001+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Bandini's",
+    "address": "Carrer de Manso, 42, Eixample, 08015 Barcelona, Spain",
+    "lat": 41.3768407,
+    "lng": 2.1608909,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bandini%27s+Carrer+de+Manso%2C+42%2C+Eixample%2C+08015+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Bandini%27s+Carrer+de+Manso%2C+42%2C+Eixample%2C+08015+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Platja El Prat",
+    "address": "Carretera de la Platja, 78, 08820 El Prat de Llobregat, Barcelona, Spain",
+    "lat": 41.2866927,
+    "lng": 2.1046476,
+    "neighbourhood": "Other",
+    "tags": [
+      "Beach",
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Platja+El+Prat+Carretera+de+la+Platja%2C+78%2C+08820+El+Prat+de+Llobregat%2C+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Platja+El+Prat+Carretera+de+la+Platja%2C+78%2C+08820+El+Prat+de+Llobregat%2C+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Cremat 11",
+    "address": "Carrer de Cremat Gran i Xic, 11, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3856044,
+    "lng": 2.1810658,
+    "neighbourhood": "El Born / La Ribera",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cremat+11+Carrer+de+Cremat+Gran+i+Xic%2C+11%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Cremat+11+Carrer+de+Cremat+Gran+i+Xic%2C+11%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Montjuïc Slides",
+    "address": "Passeig del Migdia, 199, Sants-Montjuïc, 08038 Barcelona, Spain",
+    "lat": 41.3657566,
+    "lng": 2.1669566,
+    "neighbourhood": "Poble-sec / Montjuïc",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montju%C3%AFc+Slides+Passeig+del+Migdia%2C+199%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Montju%C3%AFc+Slides+Passeig+del+Migdia%2C+199%2C+Sants-Montju%C3%AFc%2C+08038+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "La Gilda",
+    "address": "Carrer de Girona, 175, Eixample, 08037 Barcelona, Spain",
+    "lat": 41.399614,
+    "lng": 2.1646268,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Dinner",
+      "Lunch",
+      "Restaurant"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Gilda+Carrer+de+Girona%2C+175%2C+Eixample%2C+08037+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=La+Gilda+Carrer+de+Girona%2C+175%2C+Eixample%2C+08037+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Cerveseria Vaso de Oro",
+    "address": "Carrer de Balboa, 6, Ciutat Vella, 08003 Barcelona, Spain",
+    "lat": 41.3818495,
+    "lng": 2.1873163,
+    "neighbourhood": "Barceloneta",
+    "tags": [
+      "Beach",
+      "Lunch",
+      "Tapas"
+    ],
+    "category": "Lunch",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerveseria+Vaso+de+Oro+Carrer+de+Balboa%2C+6%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain",
+    "reviewsUrl": "https://www.google.com/search?q=Cerveseria+Vaso+de+Oro+Carrer+de+Balboa%2C+6%2C+Ciutat+Vella%2C+08003+Barcelona%2C+Spain+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Nabucco Tiramisu",
+    "address": "Plaça de la Vila de Gràcia, 8, Gràcia, 08012 Barcelona",
+    "lat": 41.40001,
+    "lng": 2.1573,
+    "neighbourhood": "Gràcia",
+    "tags": [
+      "Coffee",
+      "Breakfast",
+      "Lunch",
+      "Pastries & Desserts",
+      "Aperitivo"
+    ],
+    "category": "Breakfast",
+    "mapsUrl": "https://maps.app.goo.gl/eDbm2SentKqa9Jmn9?g_st=aw",
+    "reviewsUrl": "https://www.google.com/search?q=Nabucco+Tiramisu+Pla%C3%A7a+de+la+Vila+de+Gr%C3%A0cia+Barcelona+Google+reviews",
+    "website": "",
+    "multiLocation": false
+  },
+  {
+    "name": "Baluard",
+    "address": "Multiple locations in Barcelona",
+    "lat": null,
+    "lng": null,
+    "neighbourhood": "Multiple locations",
+    "tags": [
+      "Bakery",
+      "Pastries & Desserts"
+    ],
+    "category": "Bakery",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baluard+bakery+Barcelona+Barcelona",
+    "reviewsUrl": "https://www.google.com/search?q=Baluard+bakery+Barcelona+Barcelona+Google+reviews",
+    "website": "https://www.baluardbarceloneta.com/en/",
+    "multiLocation": true
+  },
+  {
+    "name": "Honest Greens",
+    "address": "Multiple locations in Barcelona",
+    "lat": null,
+    "lng": null,
+    "neighbourhood": "Multiple locations",
+    "tags": [
+      "Healthy Food",
+      "Lunch",
+      "Dinner",
+      "Casual Eats"
+    ],
+    "category": "Healthy Food",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Honest+Greens+Barcelona+Barcelona",
+    "reviewsUrl": "https://www.google.com/search?q=Honest+Greens+Barcelona+Barcelona+Google+reviews",
+    "website": "https://www.honestgreens.com/es",
+    "multiLocation": true
+  },
+  {
+    "name": "La Flauta - Rambla Catalunya",
+    "address": "Rambla de Catalunya, Barcelona",
+    "lat": 41.3896,
+    "lng": 2.1607,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Tapas"
+    ],
+    "category": "Breakfast",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Flauta+Rambla+Catalunya+Barcelona+Barcelona",
+    "reviewsUrl": "https://www.google.com/search?q=La+Flauta+Rambla+Catalunya+Barcelona+Barcelona+Google+reviews",
+    "website": "https://www.laflautagroup.com/",
+    "multiLocation": false
+  },
+  {
+    "name": "Cerveseria Catalana",
+    "address": "Barcelona",
+    "lat": 41.392,
+    "lng": 2.16,
+    "neighbourhood": "Eixample",
+    "tags": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Tapas",
+      "Aperitivo"
+    ],
+    "category": "Breakfast",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerveseria+Catalana+Barcelona+Barcelona",
+    "reviewsUrl": "https://www.google.com/search?q=Cerveseria+Catalana+Barcelona+Barcelona+Google+reviews",
+    "website": "https://www.laflautagroup.com/",
+    "multiLocation": false
+  }
+]
